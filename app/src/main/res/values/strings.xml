@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aventuras Fantásticas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Mock -->
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string-array name="choices">
+        <item>Aqui é Body Builder Ipsum! Eu quero esse 13 daqui a pouquinho aí. Tá saindo da jaula o monstro! Sabe o que é isso daí? Trapézio descendente é o nome disso aí. É verão o ano todo vem cumpadi. Aqui nóis constrói fibra, não é água com músculo. Não vai dá não. É esse que a gente quer, é ele que nóis vamo buscar. Boraaa, Hora do Show.</item>
+        <item>Lucas ipsum dolor sit amet solo solo hutt mara darth dooku k-3po windu windu jinn. Anakin solo skywalker antilles leia mon fett luke darth. Ackbar ponda wedge darth owen ben maul. Bothan c-3po ackbar ponda solo ackbar yavin organa vader. Vader darth tusken raider moff r2-d2 kenobi jango. Chewbacca skywalker kenobi skywalker. Mara kenobi mandalore jango. Lando mandalorians amidala skywalker darth luuke. Darth organa mothma hoth ackbar ben. Solo calrissian palpatine chewbacca darth hutt hutt lando.</item>
+        <item>These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.Resistance is futile.</item>
+    </string-array>
+</resources>
